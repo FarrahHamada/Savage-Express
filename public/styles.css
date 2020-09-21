@@ -1,0 +1,33 @@
+
+html{
+
+color: black;
+
+}
+
+body{
+  background-image: url("https://i.pinimg.com/originals/a4/f5/59/a4f559bbd09cdf9dad56d5e3621836c7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Kaushan Script', cursive;
+  /* text-align: center; */
+  display: block;
+  margin-left: 200px;
+}
+
+h1{
+
+  font-size: 3rem;
+}
+
+h2, h3{
+  font-style: bold;
+}
+
+
+h3{
+  margin-top: 40px;
+}
+.messages{
+  font-size: 20px;
+}
